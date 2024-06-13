@@ -7,4 +7,7 @@ data/
 
 # ignore vs code settings  
 .vscode/
+venv/
+.idea/
+
 
