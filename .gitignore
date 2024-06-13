@@ -1,0 +1,10 @@
+data/
+
+# ignore python bytecode files
+*.pyc
+*.pyo
+*.pyd
+
+# ignore vs code settings  
+.vscode/
+
