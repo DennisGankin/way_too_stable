@@ -1,4 +1,4 @@
-#data/
+data/
 
 # ignore python bytecode files
 *.pyc
